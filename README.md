@@ -1,2 +1,2 @@
-# 🚗 toronto-grid (TorontoGrid)
+# 🗺️📍 toronto-grid (TorontoGrid)
 Toronto Neighbourhood Insights
